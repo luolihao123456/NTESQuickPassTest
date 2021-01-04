@@ -15,9 +15,9 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "NTESLiveDetect"
-  spec.version      = "2.2.3"
-  spec.summary      = "NTESLiveDetects."
+  spec.name         = "NTESQuickPassTest"
+  spec.version      = "1.0"
+  spec.summary      = "NTESQuickPassTest."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = "A short description of NTESLiveDetect."
 
-  spec.homepage     = "https://github.com/yidun/NTESLiveDetect"
+  spec.homepage     = "https://github.com/luolihao123456/NTESQuickPassTest"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/yidun/NTESLiveDetect.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/luolihao123456/NTESQuickPassTest.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
